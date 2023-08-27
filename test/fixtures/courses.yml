@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  course_catagory: MyString
+  batch: one
+  trainer: one
+  trainee: one
+  time_slot: 1
+  start_time: 2023-08-27 13:52:07
+  confirm_booking: false
+  mission_completed: false
+
+two:
+  course_catagory: MyString
+  batch: two
+  trainer: two
+  trainee: two
+  time_slot: 1
+  start_time: 2023-08-27 13:52:07
+  confirm_booking: false
+  mission_completed: false
